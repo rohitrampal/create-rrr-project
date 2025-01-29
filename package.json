@@ -1,6 +1,6 @@
 {
   "name": "create-rrr-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom Node.js/Express project generator",
   "bin": {
     "create-rrr-project": "./cli.js"
